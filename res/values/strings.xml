@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Users Data</string>
+    <string-array name="items">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
